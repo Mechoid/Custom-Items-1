@@ -854,6 +854,17 @@ kit_icon: larisa_explorer
 }
 
 {
+ckey: Schnayy
+character_name: Larisa Hunter
+item_path: /obj/item/device/kit/suit
+item_name: hoodie modification kit
+item_desc: A customization kit with all the tools needed to modify a hoodie.
+kit_name: spider coat
+kit_desc: A purple winter coat with a design of a spider's face on the hood. The name 'Dahlia' is written on the inside tag.
+kit_icon: coatdahlia
+}
+
+{
 ckey: misterlayne
 character_name: Haruhi Kra'kanra Enai-Kyaka
 item_path: /obj/item/clothing/suit/storage/toggle/labcoat/emt
